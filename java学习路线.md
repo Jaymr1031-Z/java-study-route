@@ -2,7 +2,7 @@
 
 ## JavaEE基础学习（20-30天）
 
-推荐观看B站黑马程序员视频：[从入门到起飞 上 下两篇](https://www.bilibili.com/video/BV1uJ411k7wZ)。
+推荐观看B站黑马程序员视频：[从入门到起飞 上 下两篇](https://www.bilibili.com/video/BV17F411T7Ao/?spm_id_from=333.337.search-card.all.click&vd_source=a4069d0da6d84c42e5c21b75278a49b4)。
 
 配合以下CSDN文章进行查缺补漏：
 - [Java基础知识总结](https://blog.csdn.net/qq_35512802/article/details/128688166)
@@ -17,7 +17,7 @@
 
 ## 企业开发实战（约20天）
 
-推荐学习B站黑马程序员的课程：[全网首发AI+JavaWeb开发入门，Tlias教学管理系统项目](https://www.bilibili.com/video/BV1QG4y1j7ki)。
+推荐学习B站黑马程序员的课程：[全网首发AI+JavaWeb开发入门，Tlias教学管理系统项目](https://www.bilibili.com/video/BV1yGydYEE3H/?spm_id_from=333.337.top_right_bar_window_history.content.click&vd_source=a4069d0da6d84c42e5c21b75278a49b4)。
 
 完成此阶段后，你的项目开发能力将初具雏形。
 
