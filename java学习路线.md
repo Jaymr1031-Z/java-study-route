@@ -27,7 +27,7 @@
 
 ## Redis学习
 
-继续深入学习Redis，推荐黑马程序员的Redis课程。
+继续深入学习Redis，推荐黑马程序员的Redis课程:[Redis 黑马点评](https://www.bilibili.com/video/BV1cr4y1671t/?spm_id_from=333.1007.0.0&vd_source=a4069d0da6d84c42e5c21b75278a49b4)
 
 虽然该课程可能有些过时，但仍然具有学习价值。
 
